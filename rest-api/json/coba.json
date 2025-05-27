@@ -1,0 +1,34 @@
+[
+    {
+        "nama": "Fitratul Aini",
+        "umur": 22,
+        "nim" : "2217020008",
+        "semester" : 6,
+        "prodi" : "Sistem Informasi",
+        "fakultas" : "sains dan teknologi",
+        "hobby" :[
+            "mendengar musik",
+            "menonton film"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Budi",
+            "pembimbing2" : "Joko"
+        }
+    },
+    {
+        "nama": "Fitratul Aini",
+        "umur": 22,
+        "nim" : "2217020008",
+        "semester" : 6,
+        "prodi" : "Sistem Informasi",
+        "fakultas" : "sains dan teknologi",
+        "hobby" :[
+            "mendengar musik",
+            "menonton film"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Budi",
+            "pembimbing2" : "Joko"
+        }
+    }
+]
