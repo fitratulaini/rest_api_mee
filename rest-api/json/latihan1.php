@@ -20,6 +20,6 @@ $mahasiswa = $db->fetchAll (PDO::FETCH_ASSOC);
 
 
 $data = json_encode($mahasiswa, JSON_PRETTY_PRINT);
-echo $data;
+echo $
 
 ?>
