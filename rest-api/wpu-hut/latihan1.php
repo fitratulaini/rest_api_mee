@@ -34,7 +34,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav">
-            <a class="nav-link active" href="#">All Menu</a>
+            <a class="nav-link active" href="#">Menu only</a>
           </div>
         </div>
       </div>
@@ -44,7 +44,7 @@
 
         <div class="row mt-3">
           <div class="class">
-            <h1>All Menu</h1>
+            <h1>Menu only</h1>
           </div>
         </div>
 
