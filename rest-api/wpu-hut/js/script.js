@@ -10,7 +10,7 @@ function tampilkanSemuaMenu() {
         $('#daftar-menu').html(content);
     });
 }
-
+// 
 
 tampilkanSemuaMenu();
 $('.nav-link').on('click', function() {
