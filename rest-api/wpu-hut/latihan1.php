@@ -47,7 +47,7 @@
             <h1>Menu only</h1>
           </div>
         </div>
-
+<!-- Menampilkan sebuah navbar -->
   <div class="row">
               <?php foreach ($menu as $row) : ?>
               <div class="col-md-4">
