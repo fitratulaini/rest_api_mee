@@ -11,8 +11,8 @@
             "menonton film"
         ],
         "pembimbing" : {
-            "pembimbing1" : "Budi",
-            "pembimbing2" : "Joko"
+            "pembimbingg1" : "Budi",
+            "pembimbingg2" : "Joko"
         }
     },
     {
@@ -22,13 +22,14 @@
         "semester" : 6,
         "prodi" : "Sistem Informasi",
         "fakultas" : "sains dan teknologi",
-        "hobby" :[
+        "hobby" :
+        [
             "mendengar musik",
             "menonton film"
         ],
         "pembimbing" : {
-            "pembimbing1" : "Budi",
-            "pembimbing2" : "Joko"
+            "pembimbingg1" : "Budi",
+            "pembimbingg2" : "Joko"
         }
     }
 ]
