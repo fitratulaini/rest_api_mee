@@ -22,7 +22,7 @@
       <title>WPU Hut</title>
     </head>
     <body>
-      <!--menganti warna navbar menjadi hitam  -->
+      <!--menganti warna navbar menjadi hitam   -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
 
@@ -34,7 +34,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav">
-            <a class="nav-link active" href="#">Menu only</a>
+            <a class="nav-link active" href="#">All Menu</a>
           </div>
         </div>
       </div>
@@ -44,7 +44,7 @@
 
         <div class="row mt-3">
           <div class="class">
-            <h1>Menu only</h1>
+            <h1>All Menu</h1>
           </div>
         </div>
 <!-- Menampilkan sebuah navbar -->
